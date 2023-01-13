@@ -8,4 +8,4 @@ elif dice[0] == dice[2] and dice[0]!= dice[1]:
 elif dice[2] == dice[1] and dice[2]!= dice[0]:
     print(1000+100*dice[1])
 else:
-    print(max(dice)*100)
+    print(max(dice)*100) 

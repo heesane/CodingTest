@@ -10,3 +10,4 @@ if B >= 60:
 print(A,end=' ')
 print(B)
 
+ 

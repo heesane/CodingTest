@@ -14,4 +14,4 @@ while True:
     else:
         a = temp // 10
         b = temp % 10
-print(cnt)
+print(cnt) 
